@@ -33,4 +33,6 @@ We gather data through web scraping using Selenium to capture the following time
 ### Conclusion
 This project provides valuable insights into how policy rates, bond yields, and stock market performance interact. By analyzing these relationships, we can better understand investor behavior and its impact on the broader economy.
 
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/883d3914-daa8-43d8-80ad-56343f096d3c">
+
 
