@@ -28,7 +28,7 @@ We gather data through web scraping using Selenium to capture the following time
 - **Selenium**: For web scraping and data extraction from webpages.
 - **Python**: For data processing and analysis.
 - **Pandas**: For data manipulation and analysis.
-- **Matplotlib / Seaborn**: For data visualization.
+- **Plotly**: For data visualization.
 
 ### Conclusion
 This project provides valuable insights into how policy rates, bond yields, and stock market performance interact. By analyzing these relationships, we can better understand investor behavior and its impact on the broader economy.
